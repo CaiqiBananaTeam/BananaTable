@@ -5,6 +5,20 @@
     <string name="nav_bottom_more">More</string>
     <string name="nav_bottom_me">Me</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">Name</string>
+    <string name="user_sno">Sno</string>
+    <string name="user_univ">Univ</string>
+    <string name="user_college">College</string>
+    <string name="user_class">Class</string>
+
+    <string name="moreItem_grades">Grades</string>
+    <string name="moreItem_classrooms">Classrooms</string>
+    <string name="moreItem_exams">Examinations</string>
+    <string name="meItem_config">Parser Config</string>
+    <string name="meItem_change">Change User</string>
+    <string name="meItem_set">Settings</string>
+
+    <string name="contentDesc_Image">Beautiful Images</string>
+
+
 </resources>

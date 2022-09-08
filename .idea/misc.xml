@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_insert_emoticon_24.xml" value="0.289" />
+        <entry key="app/src/main/res/drawable/ic_baseline_scanner_24.xml" value="0.289" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.26197916666666665" />
         <entry key="app/src/main/res/layout/fragment_me.xml" value="0.28072916666666664" />
         <entry key="app/src/main/res/layout/fragment_more.xml" value="0.28072916666666664" />
         <entry key="app/src/main/res/layout/fragment_table.xml" value="0.28072916666666664" />
+        <entry key="app/src/main/res/layout/me_item.xml" value="0.2796875" />
+        <entry key="app/src/main/res/layout/more_item.xml" value="0.2796875" />
         <entry key="app/src/main/res/menu/menu_bottom_nav.xml" value="0.2796875" />
       </map>
     </option>

@@ -6,6 +6,7 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="black_primary">#282828</color>
     <color name="white">#FFFFFFFF</color>
 
     <color name="white_primary">#FFFFFF</color>
@@ -13,4 +14,9 @@
 
     <color name="blue_primary">#4286F3</color>
     <color name="pile_primary">#5F5F5F</color>
+
+
+    <color name="string_color_black">@color/black</color>
+    <color name="string_color_black_primary">@color/black_primary</color>
+    <color name="string_color_pile">@color/pile_primary</color>
 </resources>

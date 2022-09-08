@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/tableFragment"
-        android:name="com.flatig.banana.bananatable.TableFragment"
+        android:name="com.flatig.banana.bananatable.ui.table.TableFragment"
         android:label="fragment_table"
         tools:layout="@layout/fragment_table" />
     <fragment
         android:id="@+id/moreFragment"
-        android:name="com.flatig.banana.bananatable.MoreFragment"
+        android:name="com.flatig.banana.bananatable.ui.more.MoreFragment"
         android:label="fragment_more"
         tools:layout="@layout/fragment_more" />
     <fragment
         android:id="@+id/meFragment"
-        android:name="com.flatig.banana.bananatable.MeFragment"
+        android:name="com.flatig.banana.bananatable.ui.me.MeFragment"
         android:label="fragment_me"
         tools:layout="@layout/fragment_me" />
 </navigation>
