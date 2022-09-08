@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tableFragment"
+        android:icon="@drawable/ic_baseline_crop_square_24"
+        android:title="@string/nav_bottom_table" />
+    <item
+        android:id="@+id/moreFragment"
+        android:icon="@drawable/ic_baseline_architecture_24"
+        android:title="@string/nav_bottom_more" />
+    <item
+        android:id="@+id/meFragment"
+        android:icon="@drawable/ic_baseline_person_outline_24"
+        android:title="@string/nav_bottom_me" />
+
+</menu>
